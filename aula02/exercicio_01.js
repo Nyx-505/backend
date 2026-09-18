@@ -11,3 +11,16 @@ let idade = anoAtual - anoNascimento;
 
 
 console.log(idade);
+
+// Boolean (Verdadeiro ou falso)
+// um booblean pode ter apenas dois valores: true (verddeiro) ou false (falso)
+
+let maiorDeidade = true;
+let menorDeidade = false 
+
+console.log (maiorDeidade); //exibe true 
+console.log (menorDeidade);//exibe true
+
+let idade = 16;
+let podeDirigir = idade >= 18;
+console.log(podeDirigir)
